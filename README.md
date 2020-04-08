@@ -15,11 +15,10 @@ B. Use find commands to get:
 1. A list of everyone in your class.
 2. An entry for a single person.
 
-C. Use find commands to get:
-1. Add new field to all the documents called instructors where it can hold list of instructors
-2. Add the following instructors: Joe, Suresh, Kenneth, Nathaniel and Melvin 
-3. Remove Melvin from the instructors list
+C. Create a new database, name it seir224, and create a collection name instructors
 
+1. Create a single document that can hold the follwing instructors Joe, Suresh, Kenneth, Nathaniel and Melvin; field name should be instructor_list
+2. Remove Melvin from the instructors list
 
 ### BONUS
 
