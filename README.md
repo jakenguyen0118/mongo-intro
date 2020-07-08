@@ -26,4 +26,4 @@ C. Create a new database, name it seir526, and create a collection name instruct
 
 ### BONUS
 
-If you finish early, check out the MongoDB documentation and figure out how to find users by an entry in an array.
+If you finish early, check out the [MongoDB documentation](https://docs.mongodb.com/) and figure out how to find users by an entry in an array.
