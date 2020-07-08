@@ -2,7 +2,7 @@
 
 ## Preparation
 
-Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste the commands that aure used to complete each step below.
+Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste the commands that are used to complete each step below.
 
 You will be writing your answers in a Markdown document and your answers must be formatted properly, so it would be worthwhile to review the [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
