@@ -1,6 +1,6 @@
 # Starting with Mongo
 
-Preparation
+## Preparation
 
 - Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste each command that is used to complete each step below:
 
