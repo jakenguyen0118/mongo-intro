@@ -2,7 +2,7 @@
 
 ## Preparation
 
-- Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste the commands that aure used to complete each step below:
+- Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste the commands that aure used to complete each step below.
 
 ## Instructions
 
