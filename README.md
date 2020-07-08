@@ -1,5 +1,9 @@
 # Starting with Mongo
 
+Preparation
+
+- Create a new readme file called `mongo-lab-commands.md` in the repo and copy/paste each command that is used to complete each step below:
+
 ## Instructions
 
 A. Use the command line to create a classroom database. Insert entries for yourself and the people in your SEIR 526 in a students collection. Each document should have:
