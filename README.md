@@ -23,8 +23,8 @@ B. Use find commands to get:
 
 C. Create a new database, name it seir526, and create a collection name instructors
 
-1. Create a single document that can hold the following instructors Joe, Madeline, Kenneth, Nathaniel and Aegean; field name should be instructor_list
-2. Remove Madeline from the instructors list
+1. Create a single document that can hold the following instructors Joe, Alex, Kenneth, Nathaniel and Aegean; field name should be instructor_list
+2. Remove Nathaniel from the instructors list
 
 ### BONUS
 
