@@ -1,4 +1,4 @@
-##A)
+## A)
 
 ```
 db.classroom.insert([
@@ -41,21 +41,21 @@ db.classroom.insert([
 ])
 ```
 
-##B)
+## B)
 
-###1)
+### 1)
 ```
 db.classroom.find()
 ```
 
-###2)
+### 2)
 ```
 db.classroom.find({name: "Jake"})
 ```
 
-##C)
+## C)
 
-###1)
+### 1)
 ```
 db.instructor_list.insert([
 {
@@ -76,7 +76,7 @@ db.instructor_list.insert([
 ])
 ```
 
-###2)
+### 2)
 ```
 db.instructor_list.remove({name: "Nathaniel"})
 ```
