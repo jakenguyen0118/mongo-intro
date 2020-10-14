@@ -8,7 +8,7 @@ You will be writing your answers in a Markdown document and your answers must be
 
 ## Instructions
 
-A. Use the command line to create a classroom database. Insert entries for yourself and the people in your SEIR 526 in a students collection. Each document should have:
+A. Use the command line to create a classroom database. Insert entries for yourself and the people your cohort in a students collection. Each document should have:
 
 1. A field of name with the person's name.
 2. A field of list of favorite food
