@@ -80,3 +80,11 @@ db.instructor_list.insert([
 ```
 db.instructor_list.remove({name: "Nathaniel"})
 ```
+
+## BONUS
+
+```
+db.classroom.find({hobbies: "video games"})
+
+db.students.find({"hobbies": {$in: ["Video Games", "Watch Movies"]}})
+```
